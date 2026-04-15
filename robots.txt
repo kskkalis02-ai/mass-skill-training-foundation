@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mass-skill-training-foundation2.vercel.app/sitemap.xml
+Sitemap: https://mass-skill-training-foundation-topaz.vercel.app/sitemap.xml
